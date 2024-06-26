@@ -23,6 +23,8 @@
 #### Enfoques recientes:
 - Integraciones de pagos en línea con Verifone
 - Integraciones de pagos Oxxo Pay
+- Integraciones en Motor de pago usando servicios de Vtex
+- Integraciones de procesamiento interno de órdenes usando servicios de Vtex
 - Creación de Web Job en Azure
 - Creación de Sistema de logs
 
