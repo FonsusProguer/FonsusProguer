@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+<h2> ¡Hey 👋! Soy Fonsus Proguer </h2>
+<h4> Desarrollador de aplicaciones .Net </h4>
+</div>
+
+![PortadaCanal - 2024 - GitHub](https://github.com/FonsusProguer/FonsusProguer/assets/68525287/356c13ee-299d-489e-b748-466d41512f00)
+
 
 <!--
 **FonsusProguer/FonsusProguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
